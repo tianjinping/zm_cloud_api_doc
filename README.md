@@ -17,8 +17,8 @@ ZMApi-Key：zm-**********
 # 环境配置 
 
 ```markdown
-生产环境: http://www.zmapi.wisdom-fintech.com/
-开发、测试环境: http://www.zmapi-test.wisdom-fintech.com/
+生产环境: http://zmapi.wisdom-fintech.com/
+开发、测试环境: http://zmapi-test.wisdom-fintech.com/
 ```
 
 # 调用示例
