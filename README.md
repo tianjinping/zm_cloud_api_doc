@@ -28,7 +28,7 @@ import requests
 import json
 
 # 远程请求的url
-url = "http://www.zmapi-test.wisdom-fintech.com/cloudapi/rank/get_fund_rank_score"
+url = "http://www.zmapi-test.wisdom-fintech.com/zmapi/rank/get_fund_rank_score"
 
 # 设置header
 headers = {
