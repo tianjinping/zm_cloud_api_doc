@@ -19,6 +19,13 @@ POST
 
 `/fund/get_calc_fund_allocation_status`
 
+#### 请求头
+
+```markdown
+Content-Type: application/json
+ZMApi-Key：zm-**********
+```
+
 参数
 -------------
 

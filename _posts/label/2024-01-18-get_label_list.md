@@ -19,6 +19,13 @@ POST
 
 `/label/get_label_list`
 
+#### 请求头
+
+```markdown
+Content-Type: application/json
+ZMApi-Key：zm-**********
+```
+
 参数
 -------------
 

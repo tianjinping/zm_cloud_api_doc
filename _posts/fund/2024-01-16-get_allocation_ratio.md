@@ -19,6 +19,12 @@ POST
 
 `/fund/get_allocation_ratio`
 
+#### 请求头
+
+```markdown
+Content-Type: application/json
+ZMApi-Key：zm-**********
+```
 
 参数
 -------------
